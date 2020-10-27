@@ -1,5 +1,5 @@
 # A-for-Tic-Tac-Toe
-This project uses adversarial graph search with alpha beta pruning to play Tic Tac Toe against human
+Uses adversarial graph search with alpha beta pruning to play Tic Tac Toe against human
 
 # Prerequisites
 Download the repository and run the command pip3 install -r requirements.txt in the repository folder
