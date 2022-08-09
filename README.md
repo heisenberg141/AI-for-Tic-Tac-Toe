@@ -1,4 +1,4 @@
-# A-for-Tic-Tac-Toe
+# AI-for-Tic-Tac-Toe
 Uses adversarial graph search with alpha beta pruning to play Tic Tac Toe against human
 
 # Prerequisites
